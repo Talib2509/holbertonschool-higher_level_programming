@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 import random
-number = random.randint(0, 100)
+number = random.randint(-10000, 10000)
 print(f"{number} Battery street")
